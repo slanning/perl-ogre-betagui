@@ -1,0 +1,61 @@
+22:39:57: Creating resource group General
+22:39:57: Creating resource group Internal
+22:39:57: Creating resource group Autodetect
+22:39:57: SceneManagerFactory for type 'DefaultSceneManager' registered.
+22:39:57: Registering ResourceManager for type Material
+22:39:57: Registering ResourceManager for type Mesh
+22:39:57: Registering ResourceManager for type Skeleton
+22:39:57: MovableObjectFactory for type 'ParticleSystem' registered.
+22:39:57: OverlayElementFactory for type Panel registered.
+22:39:57: OverlayElementFactory for type BorderPanel registered.
+22:39:57: OverlayElementFactory for type TextArea registered.
+22:39:57: Registering ResourceManager for type Font
+22:39:57: ArchiveFactory for archive type FileSystem registered.
+22:39:57: ArchiveFactory for archive type Zip registered.
+22:39:57: FreeImage version: 3.10.0
+22:39:57: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+22:39:57: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2
+22:39:57: DDS codec registering
+22:39:57: Registering ResourceManager for type HighLevelGpuProgram
+22:39:57: Registering ResourceManager for type Compositor
+22:39:57: MovableObjectFactory for type 'Entity' registered.
+22:39:57: MovableObjectFactory for type 'Light' registered.
+22:39:57: MovableObjectFactory for type 'BillboardSet' registered.
+22:39:57: MovableObjectFactory for type 'ManualObject' registered.
+22:39:57: MovableObjectFactory for type 'BillboardChain' registered.
+22:39:57: MovableObjectFactory for type 'RibbonTrail' registered.
+22:39:57: Loading library /usr/lib/OGRE/RenderSystem_GL.so
+22:39:57: Installing plugin: GL RenderSystem
+22:39:57: OpenGL Rendering Subsystem created.
+22:39:57: Plugin successfully installed
+22:39:57: Loading library /usr/lib/OGRE/Plugin_ParticleFX.so
+22:39:57: Installing plugin: ParticleFX
+22:39:57: Particle Emitter Type 'Point' registered
+22:39:57: Particle Emitter Type 'Box' registered
+22:39:57: Particle Emitter Type 'Ellipsoid' registered
+22:39:57: Particle Emitter Type 'Cylinder' registered
+22:39:57: Particle Emitter Type 'Ring' registered
+22:39:57: Particle Emitter Type 'HollowEllipsoid' registered
+22:39:57: Particle Affector Type 'LinearForce' registered
+22:39:57: Particle Affector Type 'ColourFader' registered
+22:39:57: Particle Affector Type 'ColourFader2' registered
+22:39:57: Particle Affector Type 'ColourImage' registered
+22:39:57: Particle Affector Type 'ColourInterpolator' registered
+22:39:57: Particle Affector Type 'Scaler' registered
+22:39:57: Particle Affector Type 'Rotator' registered
+22:39:57: Particle Affector Type 'DirectionRandomiser' registered
+22:39:57: Particle Affector Type 'DeflectorPlane' registered
+22:39:57: Plugin successfully installed
+22:39:57: Loading library /usr/lib/OGRE/Plugin_BSPSceneManager.so
+22:39:57: Installing plugin: BSP Scene Manager
+22:39:57: Plugin successfully installed
+22:39:57: Loading library /usr/lib/OGRE/Plugin_OctreeSceneManager.so
+22:39:57: Installing plugin: Octree & Terrain Scene Manager
+22:39:57: Plugin successfully installed
+22:39:57: Loading library /usr/lib/OGRE/Plugin_CgProgramManager.so
+22:39:57: Installing plugin: Cg Program Manager
+22:39:57: Plugin successfully installed
+22:39:57: *-*-* OGRE Initialising
+22:39:57: *-*-* Version 1.6.3 (Shoggoth)
+22:39:57: Creating resource group Bootstrap
+22:39:57: OGRE EXCEPTION(7:InternalErrorException): ogrenew-1.4.3/Samples/Media/packs/OgreCore.zip - error whilst opening archive: Unable to read zip file. in ZipArchive::checkZzipError at OgreZip.cpp (line 259)

@@ -1,0 +1,9 @@
+0.03  2007-12-15 |
+- increase Ogre version requirement to 0.35
+- fixes for Window, GUI, TextInput
+
+0.02  2007-12-09 | itute3 & itute4
+- itute3.pl and itute4.pl examples
+
+0.01  2007-12-02 | initial release
+- itute2.pl example
